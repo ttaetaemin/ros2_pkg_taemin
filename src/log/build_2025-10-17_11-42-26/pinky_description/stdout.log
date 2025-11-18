@@ -1,0 +1,88 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/addinedu/pinky/src/build/pinky_description
+-- Install configuration: ""
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/rviz
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/rviz/urdf_config.rviz
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/urdf
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/urdf/robot_core_marker.xacro
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/urdf/robot_core.xacro
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/urdf/lidar.xacro
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/urdf/view.urdf
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/urdf/camera.xacro
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/urdf/imu.xacro
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/urdf/inertial_macros.xacro
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/urdf/robot.urdf.xacro
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/urdf/gazebo_control.xacro
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/urdf/robot_gazebo.xacro
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/launch
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/launch/upload.launch.xml
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/launch/display.launch.xml
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/launch/rviz2_test.launch.xml
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/3.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/wheel.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/ul_sensor.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/base_link.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/camera.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/base_link_old.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/5.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/0.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/4.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/1.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/lidar.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/caster.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/collision/2.stl
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-0.jpg
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/caster.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/3.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/camera.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/base_link.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-4.jpg
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/base_link_old.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/wheel.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/5.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-5.jpg
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-3.jpg
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/ul_sensor.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/0.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-1.jpg
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/1.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/lidar.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-2.jpg
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/2.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/meshes/visual/4.dae
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/ament_index/resource_index/package_run_dependencies/pinky_description
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/ament_index/resource_index/parent_prefix_path/pinky_description
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/environment/ament_prefix_path.sh
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/environment/ament_prefix_path.dsv
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/environment/path.sh
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/environment/path.dsv
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/local_setup.bash
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/local_setup.sh
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/local_setup.zsh
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/local_setup.dsv
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/package.dsv
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/ament_index/resource_index/packages/pinky_description
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/cmake/pinky_descriptionConfig.cmake
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/cmake/pinky_descriptionConfig-version.cmake
+-- Installing: /home/addinedu/pinky/src/install/pinky_description/share/pinky_description/package.xml

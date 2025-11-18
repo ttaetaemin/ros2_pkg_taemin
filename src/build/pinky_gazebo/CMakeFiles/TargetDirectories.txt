@@ -1,0 +1,9 @@
+/home/addinedu/pinky/src/build/pinky_gazebo/CMakeFiles/uninstall.dir
+/home/addinedu/pinky/src/build/pinky_gazebo/CMakeFiles/pinky_gazebo_uninstall.dir
+/home/addinedu/pinky/src/build/pinky_gazebo/CMakeFiles/test.dir
+/home/addinedu/pinky/src/build/pinky_gazebo/CMakeFiles/edit_cache.dir
+/home/addinedu/pinky/src/build/pinky_gazebo/CMakeFiles/rebuild_cache.dir
+/home/addinedu/pinky/src/build/pinky_gazebo/CMakeFiles/list_install_components.dir
+/home/addinedu/pinky/src/build/pinky_gazebo/CMakeFiles/install.dir
+/home/addinedu/pinky/src/build/pinky_gazebo/CMakeFiles/install/local.dir
+/home/addinedu/pinky/src/build/pinky_gazebo/CMakeFiles/install/strip.dir

@@ -1,0 +1,30 @@
+[2.772s] Invoking command in '/home/addinedu/pinky/build/pinky_tmproject': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_tmproject/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_tmproject/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/addinedu/pinky/build/pinky_tmproject/build --no-deps symlink_data
+[3.442s] running develop
+[3.824s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+[3.824s]   self.local_index = Environment(self.shadow_path + sys.path)
+[3.893s] running egg_info
+[3.893s] creating pinky_tmproject.egg-info
+[3.927s] writing pinky_tmproject.egg-info/PKG-INFO
+[3.927s] writing dependency_links to pinky_tmproject.egg-info/dependency_links.txt
+[3.927s] writing entry points to pinky_tmproject.egg-info/entry_points.txt
+[3.927s] writing requirements to pinky_tmproject.egg-info/requires.txt
+[3.927s] writing top-level names to pinky_tmproject.egg-info/top_level.txt
+[3.928s] writing manifest file 'pinky_tmproject.egg-info/SOURCES.txt'
+[4.014s] reading manifest file 'pinky_tmproject.egg-info/SOURCES.txt'
+[4.015s] writing manifest file 'pinky_tmproject.egg-info/SOURCES.txt'
+[4.075s] running build_ext
+[4.076s] Creating /home/addinedu/pinky/install/pinky_tmproject/lib/python3.12/site-packages/pinky-tmproject.egg-link (link to .)
+[4.079s] Installing tm_centerline_nav script to /home/addinedu/pinky/install/pinky_tmproject/lib/pinky_tmproject
+[4.079s] 
+[4.079s] Installed /home/addinedu/pinky/build/pinky_tmproject
+[4.080s] running symlink_data
+[4.080s] creating /home/addinedu/pinky/install/pinky_tmproject/share/ament_index
+[4.080s] creating /home/addinedu/pinky/install/pinky_tmproject/share/ament_index/resource_index
+[4.080s] creating /home/addinedu/pinky/install/pinky_tmproject/share/ament_index/resource_index/packages
+[4.081s] symbolically linking /home/addinedu/pinky/build/pinky_tmproject/resource/pinky_tmproject -> /home/addinedu/pinky/install/pinky_tmproject/share/ament_index/resource_index/packages
+[4.081s] symbolically linking /home/addinedu/pinky/build/pinky_tmproject/package.xml -> /home/addinedu/pinky/install/pinky_tmproject/share/pinky_tmproject
+[4.081s] creating /home/addinedu/pinky/install/pinky_tmproject/share/pinky_tmproject/launch
+[4.081s] symbolically linking /home/addinedu/pinky/build/pinky_tmproject/launch/tm_centerline_nav.launch.py -> /home/addinedu/pinky/install/pinky_tmproject/share/pinky_tmproject/launch
+[4.081s] creating /home/addinedu/pinky/install/pinky_tmproject/share/pinky_tmproject/config
+[4.081s] symbolically linking /home/addinedu/pinky/build/pinky_tmproject/config/points.yaml -> /home/addinedu/pinky/install/pinky_tmproject/share/pinky_tmproject/config
+[4.201s] Invoked command in '/home/addinedu/pinky/build/pinky_tmproject' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_tmproject/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_tmproject/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/addinedu/pinky/build/pinky_tmproject/build --no-deps symlink_data

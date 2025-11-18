@@ -1,0 +1,28 @@
+[2.784s] Invoking command in '/home/addinedu/pinky/build/pinky_simple_navigator': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_simple_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_simple_navigator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/addinedu/pinky/build/pinky_simple_navigator/build --no-deps symlink_data
+[3.468s] running develop
+[3.848s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+[3.849s]   self.local_index = Environment(self.shadow_path + sys.path)
+[3.918s] running egg_info
+[3.918s] creating pinky_simple_navigator.egg-info
+[3.959s] writing pinky_simple_navigator.egg-info/PKG-INFO
+[3.959s] writing dependency_links to pinky_simple_navigator.egg-info/dependency_links.txt
+[3.960s] writing entry points to pinky_simple_navigator.egg-info/entry_points.txt
+[3.960s] writing requirements to pinky_simple_navigator.egg-info/requires.txt
+[3.960s] writing top-level names to pinky_simple_navigator.egg-info/top_level.txt
+[3.960s] writing manifest file 'pinky_simple_navigator.egg-info/SOURCES.txt'
+[4.043s] reading manifest file 'pinky_simple_navigator.egg-info/SOURCES.txt'
+[4.043s] writing manifest file 'pinky_simple_navigator.egg-info/SOURCES.txt'
+[4.091s] running build_ext
+[4.092s] Creating /home/addinedu/pinky/install/pinky_simple_navigator/lib/python3.12/site-packages/pinky-simple-navigator.egg-link (link to .)
+[4.093s] Installing simple_navigator script to /home/addinedu/pinky/install/pinky_simple_navigator/lib/pinky_simple_navigator
+[4.094s] 
+[4.095s] Installed /home/addinedu/pinky/build/pinky_simple_navigator
+[4.095s] running symlink_data
+[4.095s] creating /home/addinedu/pinky/install/pinky_simple_navigator/share/ament_index
+[4.096s] creating /home/addinedu/pinky/install/pinky_simple_navigator/share/ament_index/resource_index
+[4.096s] creating /home/addinedu/pinky/install/pinky_simple_navigator/share/ament_index/resource_index/packages
+[4.096s] symbolically linking /home/addinedu/pinky/build/pinky_simple_navigator/resource/pinky_simple_navigator -> /home/addinedu/pinky/install/pinky_simple_navigator/share/ament_index/resource_index/packages
+[4.096s] symbolically linking /home/addinedu/pinky/build/pinky_simple_navigator/package.xml -> /home/addinedu/pinky/install/pinky_simple_navigator/share/pinky_simple_navigator
+[4.096s] creating /home/addinedu/pinky/install/pinky_simple_navigator/share/pinky_simple_navigator/launch
+[4.097s] symbolically linking /home/addinedu/pinky/build/pinky_simple_navigator/launch/simple_drive.launch.xml -> /home/addinedu/pinky/install/pinky_simple_navigator/share/pinky_simple_navigator/launch
+[4.203s] Invoked command in '/home/addinedu/pinky/build/pinky_simple_navigator' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_simple_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_simple_navigator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/addinedu/pinky/build/pinky_simple_navigator/build --no-deps symlink_data

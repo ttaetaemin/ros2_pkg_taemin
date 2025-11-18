@@ -1,0 +1,30 @@
+running develop
+running egg_info
+creating pinky_tmpatrol.egg-info
+writing pinky_tmpatrol.egg-info/PKG-INFO
+writing dependency_links to pinky_tmpatrol.egg-info/dependency_links.txt
+writing entry points to pinky_tmpatrol.egg-info/entry_points.txt
+writing requirements to pinky_tmpatrol.egg-info/requires.txt
+writing top-level names to pinky_tmpatrol.egg-info/top_level.txt
+writing manifest file 'pinky_tmpatrol.egg-info/SOURCES.txt'
+reading manifest file 'pinky_tmpatrol.egg-info/SOURCES.txt'
+writing manifest file 'pinky_tmpatrol.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/addinedu/pinky/install/pinky_tmpatrol/lib/python3.12/site-packages/pinky-tmpatrol.egg-link (link to .)
+Installing click2yaml script to /home/addinedu/pinky/install/pinky_tmpatrol/lib/pinky_tmpatrol
+Installing patrol_node script to /home/addinedu/pinky/install/pinky_tmpatrol/lib/pinky_tmpatrol
+
+Installed /home/addinedu/pinky/build/pinky_tmpatrol
+running symlink_data
+creating /home/addinedu/pinky/install/pinky_tmpatrol/share
+creating /home/addinedu/pinky/install/pinky_tmpatrol/share/ament_index
+creating /home/addinedu/pinky/install/pinky_tmpatrol/share/ament_index/resource_index
+creating /home/addinedu/pinky/install/pinky_tmpatrol/share/ament_index/resource_index/packages
+symbolically linking /home/addinedu/pinky/build/pinky_tmpatrol/resource/pinky_tmpatrol -> /home/addinedu/pinky/install/pinky_tmpatrol/share/ament_index/resource_index/packages
+creating /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol
+symbolically linking /home/addinedu/pinky/build/pinky_tmpatrol/package.xml -> /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol
+creating /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol/config
+symbolically linking /home/addinedu/pinky/build/pinky_tmpatrol/config/waypoints.yaml -> /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol/config
+symbolically linking /home/addinedu/pinky/build/pinky_tmpatrol/config/nav2_overrides.yaml -> /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol/config
+creating /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol/launch
+symbolically linking /home/addinedu/pinky/build/pinky_tmpatrol/launch/wallpatrol.launch.py -> /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol/launch

@@ -1,0 +1,1 @@
+/home/addinedu/pinky/build/pinky_navigation/ament_cmake_core/pinky_navigationConfig-version.cmake

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pinky-tmproject
+Version: 0.1.0
+Summary: Topic-driven centerline navigation with RViz markers.
+Maintainer: tm
+Maintainer-email: you@example.com
+License: Apache-2.0

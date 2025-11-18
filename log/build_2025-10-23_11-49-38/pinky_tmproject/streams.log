@@ -1,0 +1,21 @@
+[1.315s] Invoking command in '/home/addinedu/pinky/src/pinky_tmproject': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_tmproject/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_tmproject/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pinky_tmproject build --build-base /home/addinedu/pinky/build/pinky_tmproject/build install --record /home/addinedu/pinky/build/pinky_tmproject/install.log --single-version-externally-managed install_data
+[1.623s] running egg_info
+[1.650s] writing ../../build/pinky_tmproject/pinky_tmproject.egg-info/PKG-INFO
+[1.650s] writing dependency_links to ../../build/pinky_tmproject/pinky_tmproject.egg-info/dependency_links.txt
+[1.650s] writing entry points to ../../build/pinky_tmproject/pinky_tmproject.egg-info/entry_points.txt
+[1.650s] writing requirements to ../../build/pinky_tmproject/pinky_tmproject.egg-info/requires.txt
+[1.650s] writing top-level names to ../../build/pinky_tmproject/pinky_tmproject.egg-info/top_level.txt
+[1.702s] reading manifest file '../../build/pinky_tmproject/pinky_tmproject.egg-info/SOURCES.txt'
+[1.703s] writing manifest file '../../build/pinky_tmproject/pinky_tmproject.egg-info/SOURCES.txt'
+[1.703s] running build
+[1.703s] running build_py
+[1.704s] running install
+[1.709s] running install_lib
+[1.735s] running install_data
+[1.735s] running install_egg_info
+[1.760s] removing '/home/addinedu/pinky/install/pinky_tmproject/lib/python3.12/site-packages/pinky_tmproject-0.1.0-py3.12.egg-info' (and everything under it)
+[1.760s] Copying ../../build/pinky_tmproject/pinky_tmproject.egg-info to /home/addinedu/pinky/install/pinky_tmproject/lib/python3.12/site-packages/pinky_tmproject-0.1.0-py3.12.egg-info
+[1.761s] running install_scripts
+[1.910s] Installing tm_centerline_nav script to /home/addinedu/pinky/install/pinky_tmproject/lib/pinky_tmproject
+[1.910s] writing list of installed files to '/home/addinedu/pinky/build/pinky_tmproject/install.log'
+[1.930s] Invoked command in '/home/addinedu/pinky/src/pinky_tmproject' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_tmproject/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_tmproject/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pinky_tmproject build --build-base /home/addinedu/pinky/build/pinky_tmproject/build install --record /home/addinedu/pinky/build/pinky_tmproject/install.log --single-version-externally-managed install_data

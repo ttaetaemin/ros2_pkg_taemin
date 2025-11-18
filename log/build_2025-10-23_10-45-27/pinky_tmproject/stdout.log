@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating pinky_tmproject.egg-info
+writing pinky_tmproject.egg-info/PKG-INFO
+writing dependency_links to pinky_tmproject.egg-info/dependency_links.txt
+writing entry points to pinky_tmproject.egg-info/entry_points.txt
+writing requirements to pinky_tmproject.egg-info/requires.txt
+writing top-level names to pinky_tmproject.egg-info/top_level.txt
+writing manifest file 'pinky_tmproject.egg-info/SOURCES.txt'
+reading manifest file 'pinky_tmproject.egg-info/SOURCES.txt'
+writing manifest file 'pinky_tmproject.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/addinedu/pinky/install/pinky_tmproject/lib/python3.12/site-packages/pinky-tmproject.egg-link (link to .)
+Installing tm_centerline_nav script to /home/addinedu/pinky/install/pinky_tmproject/lib/pinky_tmproject
+
+Installed /home/addinedu/pinky/build/pinky_tmproject
+running symlink_data
+creating /home/addinedu/pinky/install/pinky_tmproject/share/ament_index
+creating /home/addinedu/pinky/install/pinky_tmproject/share/ament_index/resource_index
+creating /home/addinedu/pinky/install/pinky_tmproject/share/ament_index/resource_index/packages
+symbolically linking /home/addinedu/pinky/build/pinky_tmproject/resource/pinky_tmproject -> /home/addinedu/pinky/install/pinky_tmproject/share/ament_index/resource_index/packages
+symbolically linking /home/addinedu/pinky/build/pinky_tmproject/package.xml -> /home/addinedu/pinky/install/pinky_tmproject/share/pinky_tmproject
+creating /home/addinedu/pinky/install/pinky_tmproject/share/pinky_tmproject/launch
+symbolically linking /home/addinedu/pinky/build/pinky_tmproject/launch/tm_centerline_nav.launch.py -> /home/addinedu/pinky/install/pinky_tmproject/share/pinky_tmproject/launch
+creating /home/addinedu/pinky/install/pinky_tmproject/share/pinky_tmproject/config
+symbolically linking /home/addinedu/pinky/build/pinky_tmproject/config/points.yaml -> /home/addinedu/pinky/install/pinky_tmproject/share/pinky_tmproject/config

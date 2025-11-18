@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pinky-tmpatrol
+Version: 0.0.1
+Summary: Wall-hugging waypoint patrol for Pinky using Nav2
+Maintainer: addinedu
+Maintainer-email: you@example.com
+License: Apache-2.0

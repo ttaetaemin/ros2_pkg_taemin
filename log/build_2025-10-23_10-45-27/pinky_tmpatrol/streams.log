@@ -1,0 +1,34 @@
+[2.277s] Invoking command in '/home/addinedu/pinky/build/pinky_tmpatrol': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_tmpatrol/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_tmpatrol/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/addinedu/pinky/build/pinky_tmpatrol/build --no-deps symlink_data
+[2.972s] running develop
+[3.341s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+[3.342s]   self.local_index = Environment(self.shadow_path + sys.path)
+[3.410s] running egg_info
+[3.411s] creating pinky_tmpatrol.egg-info
+[3.459s] writing pinky_tmpatrol.egg-info/PKG-INFO
+[3.460s] writing dependency_links to pinky_tmpatrol.egg-info/dependency_links.txt
+[3.460s] writing entry points to pinky_tmpatrol.egg-info/entry_points.txt
+[3.461s] writing requirements to pinky_tmpatrol.egg-info/requires.txt
+[3.461s] writing top-level names to pinky_tmpatrol.egg-info/top_level.txt
+[3.461s] writing manifest file 'pinky_tmpatrol.egg-info/SOURCES.txt'
+[3.551s] reading manifest file 'pinky_tmpatrol.egg-info/SOURCES.txt'
+[3.552s] writing manifest file 'pinky_tmpatrol.egg-info/SOURCES.txt'
+[3.603s] running build_ext
+[3.604s] Creating /home/addinedu/pinky/install/pinky_tmpatrol/lib/python3.12/site-packages/pinky-tmpatrol.egg-link (link to .)
+[3.605s] Installing click2yaml script to /home/addinedu/pinky/install/pinky_tmpatrol/lib/pinky_tmpatrol
+[3.605s] Installing patrol_node script to /home/addinedu/pinky/install/pinky_tmpatrol/lib/pinky_tmpatrol
+[3.605s] 
+[3.606s] Installed /home/addinedu/pinky/build/pinky_tmpatrol
+[3.606s] running symlink_data
+[3.606s] creating /home/addinedu/pinky/install/pinky_tmpatrol/share
+[3.606s] creating /home/addinedu/pinky/install/pinky_tmpatrol/share/ament_index
+[3.606s] creating /home/addinedu/pinky/install/pinky_tmpatrol/share/ament_index/resource_index
+[3.606s] creating /home/addinedu/pinky/install/pinky_tmpatrol/share/ament_index/resource_index/packages
+[3.607s] symbolically linking /home/addinedu/pinky/build/pinky_tmpatrol/resource/pinky_tmpatrol -> /home/addinedu/pinky/install/pinky_tmpatrol/share/ament_index/resource_index/packages
+[3.607s] creating /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol
+[3.607s] symbolically linking /home/addinedu/pinky/build/pinky_tmpatrol/package.xml -> /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol
+[3.607s] creating /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol/config
+[3.607s] symbolically linking /home/addinedu/pinky/build/pinky_tmpatrol/config/waypoints.yaml -> /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol/config
+[3.607s] symbolically linking /home/addinedu/pinky/build/pinky_tmpatrol/config/nav2_overrides.yaml -> /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol/config
+[3.607s] creating /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol/launch
+[3.607s] symbolically linking /home/addinedu/pinky/build/pinky_tmpatrol/launch/wallpatrol.launch.py -> /home/addinedu/pinky/install/pinky_tmpatrol/share/pinky_tmpatrol/launch
+[3.711s] Invoked command in '/home/addinedu/pinky/build/pinky_tmpatrol' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_tmpatrol/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_tmpatrol/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/addinedu/pinky/build/pinky_tmpatrol/build --no-deps symlink_data

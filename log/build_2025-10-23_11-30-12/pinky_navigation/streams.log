@@ -1,0 +1,35 @@
+[0.026s] Invoking command in '/home/addinedu/pinky/build/pinky_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/addinedu/pinky/install/pinky_tmproject:/home/addinedu/pinky/install/pinky_simple_navigator:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/addinedu/pinky/build/pinky_navigation -- -j12 -l12
+[0.461s] Invoked command in '/home/addinedu/pinky/build/pinky_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/addinedu/pinky/install/pinky_tmproject:/home/addinedu/pinky/install/pinky_simple_navigator:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/addinedu/pinky/build/pinky_navigation -- -j12 -l12
+[0.463s] Invoking command in '/home/addinedu/pinky/build/pinky_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/addinedu/pinky/install/pinky_tmproject:/home/addinedu/pinky/install/pinky_simple_navigator:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/addinedu/pinky/build/pinky_navigation
+[0.675s] -- Install configuration: ""
+[0.676s] -- Execute custom install script
+[0.676s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/launch/bringup_launch.xml
+[0.676s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/launch/cartographer.launch.xml
+[0.676s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/launch/localization_launch.xml
+[0.676s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/launch/localization_only_launch.xml
+[0.676s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/launch/map_building.launch.xml
+[0.676s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/launch/map_view.launch.xml
+[0.676s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/launch/nav2_view.launch.xml
+[0.676s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/launch/navigation_launch.xml
+[0.676s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/params/amcl_params.yaml
+[0.676s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/params/cartographer_params.lua
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/params/mapper_params.yaml
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/params/nav2_params.yaml
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/rviz/map_view.rviz
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/rviz/nav2_view.rviz
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/ament_index/resource_index/package_run_dependencies/pinky_navigation
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/ament_index/resource_index/parent_prefix_path/pinky_navigation
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/environment/ament_prefix_path.sh
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/environment/ament_prefix_path.dsv
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/environment/path.sh
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/environment/path.dsv
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/local_setup.bash
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/local_setup.sh
+[0.677s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/local_setup.zsh
+[0.678s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/local_setup.dsv
+[0.678s] -- Symlinking: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/package.dsv
+[0.678s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/ament_index/resource_index/packages/pinky_navigation
+[0.678s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/cmake/pinky_navigationConfig.cmake
+[0.678s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/cmake/pinky_navigationConfig-version.cmake
+[0.678s] -- Up-to-date symlink: /home/addinedu/pinky/install/pinky_navigation/share/pinky_navigation/package.xml
+[0.683s] Invoked command in '/home/addinedu/pinky/build/pinky_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/addinedu/pinky/install/pinky_tmproject:/home/addinedu/pinky/install/pinky_simple_navigator:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/addinedu/pinky/build/pinky_navigation

@@ -1,0 +1,3 @@
+[console_scripts]
+click2yaml = pinky_tmpatrol.click2yaml:main
+patrol_node = pinky_tmpatrol.patrol_node:main

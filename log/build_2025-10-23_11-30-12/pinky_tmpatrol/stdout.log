@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/PKG-INFO
+writing dependency_links to ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/dependency_links.txt
+writing entry points to ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/entry_points.txt
+writing requirements to ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/requires.txt
+writing top-level names to ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/top_level.txt
+reading manifest file '../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/SOURCES.txt'
+writing manifest file '../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/addinedu/pinky/install/pinky_tmpatrol/lib/python3.12/site-packages/pinky_tmpatrol-0.0.1-py3.12.egg-info' (and everything under it)
+Copying ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info to /home/addinedu/pinky/install/pinky_tmpatrol/lib/python3.12/site-packages/pinky_tmpatrol-0.0.1-py3.12.egg-info
+running install_scripts
+Installing click2yaml script to /home/addinedu/pinky/install/pinky_tmpatrol/lib/pinky_tmpatrol
+Installing patrol_node script to /home/addinedu/pinky/install/pinky_tmpatrol/lib/pinky_tmpatrol
+writing list of installed files to '/home/addinedu/pinky/build/pinky_tmpatrol/install.log'

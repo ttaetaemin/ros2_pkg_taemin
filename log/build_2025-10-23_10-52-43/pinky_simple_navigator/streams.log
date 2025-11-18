@@ -1,0 +1,21 @@
+[1.302s] Invoking command in '/home/addinedu/pinky/src/pinky_for_edu/pinky_simple_navigator': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_simple_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_simple_navigator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/pinky_simple_navigator build --build-base /home/addinedu/pinky/build/pinky_simple_navigator/build install --record /home/addinedu/pinky/build/pinky_simple_navigator/install.log --single-version-externally-managed install_data
+[1.578s] running egg_info
+[1.602s] writing ../../../build/pinky_simple_navigator/pinky_simple_navigator.egg-info/PKG-INFO
+[1.602s] writing dependency_links to ../../../build/pinky_simple_navigator/pinky_simple_navigator.egg-info/dependency_links.txt
+[1.602s] writing entry points to ../../../build/pinky_simple_navigator/pinky_simple_navigator.egg-info/entry_points.txt
+[1.602s] writing requirements to ../../../build/pinky_simple_navigator/pinky_simple_navigator.egg-info/requires.txt
+[1.602s] writing top-level names to ../../../build/pinky_simple_navigator/pinky_simple_navigator.egg-info/top_level.txt
+[1.653s] reading manifest file '../../../build/pinky_simple_navigator/pinky_simple_navigator.egg-info/SOURCES.txt'
+[1.654s] writing manifest file '../../../build/pinky_simple_navigator/pinky_simple_navigator.egg-info/SOURCES.txt'
+[1.654s] running build
+[1.654s] running build_py
+[1.654s] running install
+[1.659s] running install_lib
+[1.685s] running install_data
+[1.686s] running install_egg_info
+[1.713s] removing '/home/addinedu/pinky/install/pinky_simple_navigator/lib/python3.12/site-packages/pinky_simple_navigator-0.0.0-py3.12.egg-info' (and everything under it)
+[1.713s] Copying ../../../build/pinky_simple_navigator/pinky_simple_navigator.egg-info to /home/addinedu/pinky/install/pinky_simple_navigator/lib/python3.12/site-packages/pinky_simple_navigator-0.0.0-py3.12.egg-info
+[1.713s] running install_scripts
+[1.853s] Installing simple_navigator script to /home/addinedu/pinky/install/pinky_simple_navigator/lib/pinky_simple_navigator
+[1.854s] writing list of installed files to '/home/addinedu/pinky/build/pinky_simple_navigator/install.log'
+[1.874s] Invoked command in '/home/addinedu/pinky/src/pinky_for_edu/pinky_simple_navigator' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_simple_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_simple_navigator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/pinky_simple_navigator build --build-base /home/addinedu/pinky/build/pinky_simple_navigator/build install --record /home/addinedu/pinky/build/pinky_simple_navigator/install.log --single-version-externally-managed install_data

@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating pinky_simple_navigator.egg-info
+writing pinky_simple_navigator.egg-info/PKG-INFO
+writing dependency_links to pinky_simple_navigator.egg-info/dependency_links.txt
+writing entry points to pinky_simple_navigator.egg-info/entry_points.txt
+writing requirements to pinky_simple_navigator.egg-info/requires.txt
+writing top-level names to pinky_simple_navigator.egg-info/top_level.txt
+writing manifest file 'pinky_simple_navigator.egg-info/SOURCES.txt'
+reading manifest file 'pinky_simple_navigator.egg-info/SOURCES.txt'
+writing manifest file 'pinky_simple_navigator.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/addinedu/pinky/install/pinky_simple_navigator/lib/python3.12/site-packages/pinky-simple-navigator.egg-link (link to .)
+Installing simple_navigator script to /home/addinedu/pinky/install/pinky_simple_navigator/lib/pinky_simple_navigator
+
+Installed /home/addinedu/pinky/build/pinky_simple_navigator
+running symlink_data
+creating /home/addinedu/pinky/install/pinky_simple_navigator/share/ament_index
+creating /home/addinedu/pinky/install/pinky_simple_navigator/share/ament_index/resource_index
+creating /home/addinedu/pinky/install/pinky_simple_navigator/share/ament_index/resource_index/packages
+symbolically linking /home/addinedu/pinky/build/pinky_simple_navigator/resource/pinky_simple_navigator -> /home/addinedu/pinky/install/pinky_simple_navigator/share/ament_index/resource_index/packages
+symbolically linking /home/addinedu/pinky/build/pinky_simple_navigator/package.xml -> /home/addinedu/pinky/install/pinky_simple_navigator/share/pinky_simple_navigator
+creating /home/addinedu/pinky/install/pinky_simple_navigator/share/pinky_simple_navigator/launch
+symbolically linking /home/addinedu/pinky/build/pinky_simple_navigator/launch/simple_drive.launch.xml -> /home/addinedu/pinky/install/pinky_simple_navigator/share/pinky_simple_navigator/launch

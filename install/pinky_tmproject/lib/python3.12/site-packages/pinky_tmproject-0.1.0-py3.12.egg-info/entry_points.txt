@@ -1,0 +1,2 @@
+[console_scripts]
+tm_centerline_nav = pinky_tmproject.tm_navigator:main

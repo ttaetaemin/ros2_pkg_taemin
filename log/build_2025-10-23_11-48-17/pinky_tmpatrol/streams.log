@@ -1,0 +1,22 @@
+[1.156s] Invoking command in '/home/addinedu/pinky/src/pinky_tmpatrol': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_tmpatrol/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_tmpatrol/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pinky_tmpatrol build --build-base /home/addinedu/pinky/build/pinky_tmpatrol/build install --record /home/addinedu/pinky/build/pinky_tmpatrol/install.log --single-version-externally-managed install_data
+[1.450s] running egg_info
+[1.475s] writing ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/PKG-INFO
+[1.475s] writing dependency_links to ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/dependency_links.txt
+[1.476s] writing entry points to ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/entry_points.txt
+[1.476s] writing requirements to ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/requires.txt
+[1.476s] writing top-level names to ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/top_level.txt
+[1.527s] reading manifest file '../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/SOURCES.txt'
+[1.528s] writing manifest file '../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info/SOURCES.txt'
+[1.528s] running build
+[1.529s] running build_py
+[1.529s] running install
+[1.534s] running install_lib
+[1.560s] running install_data
+[1.561s] running install_egg_info
+[1.587s] removing '/home/addinedu/pinky/install/pinky_tmpatrol/lib/python3.12/site-packages/pinky_tmpatrol-0.0.1-py3.12.egg-info' (and everything under it)
+[1.587s] Copying ../../build/pinky_tmpatrol/pinky_tmpatrol.egg-info to /home/addinedu/pinky/install/pinky_tmpatrol/lib/python3.12/site-packages/pinky_tmpatrol-0.0.1-py3.12.egg-info
+[1.588s] running install_scripts
+[1.736s] Installing click2yaml script to /home/addinedu/pinky/install/pinky_tmpatrol/lib/pinky_tmpatrol
+[1.737s] Installing patrol_node script to /home/addinedu/pinky/install/pinky_tmpatrol/lib/pinky_tmpatrol
+[1.737s] writing list of installed files to '/home/addinedu/pinky/build/pinky_tmpatrol/install.log'
+[1.761s] Invoked command in '/home/addinedu/pinky/src/pinky_tmpatrol' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/pinky/build/pinky_tmpatrol/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/pinky/install/pinky_tmpatrol/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pinky_tmpatrol build --build-base /home/addinedu/pinky/build/pinky_tmpatrol/build install --record /home/addinedu/pinky/build/pinky_tmpatrol/install.log --single-version-externally-managed install_data

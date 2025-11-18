@@ -1,0 +1,76 @@
+[0.007s] Invoking command in '/home/addinedu/pinky/src/build/pinky_gazebo': AMENT_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:/home/addinedu/dev_ws/ros/install/my_first_package_msgs:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/addinedu/pinky/src/pinky_for_edu/pinky_gazebo -DCMAKE_INSTALL_PREFIX=/home/addinedu/pinky/src/install/pinky_gazebo
+[0.048s] -- The C compiler identification is GNU 13.3.0
+[0.090s] -- The CXX compiler identification is GNU 13.3.0
+[0.101s] -- Detecting C compiler ABI info
+[0.165s] -- Detecting C compiler ABI info - done
+[0.173s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.173s] -- Detecting C compile features
+[0.173s] -- Detecting C compile features - done
+[0.180s] -- Detecting CXX compiler ABI info
+[0.250s] -- Detecting CXX compiler ABI info - done
+[0.259s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.259s] -- Detecting CXX compile features
+[0.259s] -- Detecting CXX compile features - done
+[0.262s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.384s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.479s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.579s] -- Added test 'lint_cmake' to check CMake code style
+[0.581s] -- Added test 'xmllint' to check XML markup files
+[0.582s] -- Configuring done (0.6s)
+[0.584s] -- Generating done (0.0s)
+[0.586s] -- Build files have been written to: /home/addinedu/pinky/src/build/pinky_gazebo
+[0.590s] Invoked command in '/home/addinedu/pinky/src/build/pinky_gazebo' returned '0': AMENT_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:/home/addinedu/dev_ws/ros/install/my_first_package_msgs:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/addinedu/pinky/src/pinky_for_edu/pinky_gazebo -DCMAKE_INSTALL_PREFIX=/home/addinedu/pinky/src/install/pinky_gazebo
+[0.590s] Invoking command in '/home/addinedu/pinky/src/build/pinky_gazebo': AMENT_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:/home/addinedu/dev_ws/ros/install/my_first_package_msgs:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/addinedu/pinky/src/build/pinky_gazebo -- -j12 -l12
+[0.620s] Invoked command in '/home/addinedu/pinky/src/build/pinky_gazebo' returned '0': AMENT_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:/home/addinedu/dev_ws/ros/install/my_first_package_msgs:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/addinedu/pinky/src/build/pinky_gazebo -- -j12 -l12
+[0.621s] Invoking command in '/home/addinedu/pinky/src/build/pinky_gazebo': AMENT_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:/home/addinedu/dev_ws/ros/install/my_first_package_msgs:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/addinedu/pinky/src/build/pinky_gazebo
+[0.627s] -- Install configuration: ""
+[0.627s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/launch
+[0.627s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/launch/launch_sim.launch.xml
+[0.627s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/launch/launch_sim_empty.launch.xml
+[0.627s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/launch/launch_sim_resto.launch.xml
+[0.628s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/worlds
+[0.628s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/worlds/pinky_restaurant_.world
+[0.628s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/worlds/pinky_factory_with_arm.world
+[0.628s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/worlds/pinky_restaurant.world
+[0.628s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/worlds/empty.world
+[0.628s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/worlds/pinky_factory.world
+[0.629s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/worlds/pinky_map.world
+[0.629s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models
+[0.629s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/shelf
+[0.629s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/shelf/meshes
+[0.629s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/shelf/meshes/Box_paper_04_1_Base_Color.png
+[0.630s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/shelf/meshes/shelf_big_movai.dae
+[0.631s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/shelf/model.sdf
+[0.631s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/shelf/model.config
+[0.631s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/shelf/original_modl.sdf
+[0.631s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/shelf/thumbnails
+[0.631s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/shelf/thumbnails/1.png
+[0.632s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/img
+[0.632s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/img/pinklab_half.jpg
+[0.632s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/img/pinklab.jpg
+[0.633s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/obj
+[0.633s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/obj/obj.obj
+[0.633s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/obj/station.dae
+[0.633s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/obj/table.dae
+[0.634s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/obj/table2.dae
+[0.634s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/obj/arm_block.obj
+[0.634s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/robot
+[0.634s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/models/robot/jetcobot.dae
+[0.671s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/params
+[0.671s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/params/pinky_bridge.yaml
+[0.671s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/ament_index/resource_index/package_run_dependencies/pinky_gazebo
+[0.671s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/ament_index/resource_index/parent_prefix_path/pinky_gazebo
+[0.672s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/environment/ament_prefix_path.sh
+[0.672s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/environment/ament_prefix_path.dsv
+[0.672s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/environment/path.sh
+[0.672s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/environment/path.dsv
+[0.672s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/local_setup.bash
+[0.672s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/local_setup.sh
+[0.672s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/local_setup.zsh
+[0.672s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/local_setup.dsv
+[0.673s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/package.dsv
+[0.673s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/ament_index/resource_index/packages/pinky_gazebo
+[0.673s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/cmake/pinky_gazeboConfig.cmake
+[0.673s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/cmake/pinky_gazeboConfig-version.cmake
+[0.673s] -- Installing: /home/addinedu/pinky/src/install/pinky_gazebo/share/pinky_gazebo/package.xml
+[0.674s] Invoked command in '/home/addinedu/pinky/src/build/pinky_gazebo' returned '0': AMENT_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/addinedu/pinky/src/install/pinky_description:/home/addinedu/dev_ws/ros/install/my_first_package_msgs:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/addinedu/pinky/src/build/pinky_gazebo

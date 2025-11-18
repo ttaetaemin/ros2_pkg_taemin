@@ -1,0 +1,30 @@
+<!-- ~/pinky/src/pinky_tmpatrol/package.xml -->
+<?xml version="1.0"?>
+<package format="3">
+  <name>pinky_tmpatrol</name>
+  <version>0.0.1</version>
+  <description>Wall-hugging waypoint patrol for Pinky using Nav2</description>
+  <maintainer email="you@example.com">addinedu</maintainer>
+  <license>Apache-2.0</license>
+
+  <!-- 런치/노드에서 쓰는 런타임 의존성 -->
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+  <exec_depend>launch_xml</exec_depend>
+  <exec_depend>ament_index_python</exec_depend>
+
+  <!-- 노드에서 사용하는 메시지/라이브러리 -->
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>nav2_simple_commander</exec_depend>
+
+  <!-- 런치에서 직접 실행하는 구성요소 -->
+  <exec_depend>nav2_map_server</exec_depend>
+  <exec_depend>nav2_amcl</exec_depend>
+  <exec_depend>pinky_navigation</exec_depend>
+
+  <export>
+    <!-- ament_python 패키지임을 선언 -->
+    <build_type>ament_python</build_type>
+  </export>
+</package>

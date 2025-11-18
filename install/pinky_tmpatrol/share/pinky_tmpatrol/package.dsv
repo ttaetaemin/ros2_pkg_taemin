@@ -1,0 +1,3 @@
+source;share/pinky_tmpatrol/hook/pythonpath.ps1
+source;share/pinky_tmpatrol/hook/pythonpath.dsv
+source;share/pinky_tmpatrol/hook/pythonpath.sh

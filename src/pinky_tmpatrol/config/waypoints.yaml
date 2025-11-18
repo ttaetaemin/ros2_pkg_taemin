@@ -1,0 +1,7 @@
+frame_id: map
+poses:
+  - {x: 1.7035013437,  y: -1.1597520113,  yaw_deg: 101.1}  # point1 → point2
+  - {x: 1.5021605492,  y: -0.1341355145,  yaw_deg: 87.8}   # point2 → point3
+  - {x: 1.5458160639,  y:  1.0031733513,  yaw_deg: 179.5}  # point3 → point4
+  - {x: -1.6960209608, y:  1.0340418816,  yaw_deg: -73.0}  # point4 → point5
+  - {x: -1.3832772970, y:  0.0085139573,  yaw_deg: -20.7}  # point5 → point1

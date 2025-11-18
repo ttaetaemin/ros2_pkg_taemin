@@ -1,0 +1,90 @@
+[0.041s] Invoking command in '/home/addinedu/pinky/build/pinky_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/addinedu/pinky/install/pinky_tmproject:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/addinedu/pinky/src/pinky_for_edu/pinky_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/addinedu/pinky/install/pinky_description
+[0.993s] -- The C compiler identification is GNU 13.3.0
+[0.994s] -- The CXX compiler identification is GNU 13.3.0
+[0.995s] -- Detecting C compiler ABI info
+[0.995s] -- Detecting C compiler ABI info - done
+[0.995s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.995s] -- Detecting C compile features
+[0.995s] -- Detecting C compile features - done
+[0.995s] -- Detecting CXX compiler ABI info
+[0.995s] -- Detecting CXX compiler ABI info - done
+[0.995s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.996s] -- Detecting CXX compile features
+[0.997s] -- Detecting CXX compile features - done
+[0.997s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.095s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.239s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.339s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.578s] -- Added test 'lint_cmake' to check CMake code style
+[1.585s] -- Added test 'xmllint' to check XML markup files
+[1.591s] -- Configuring done (1.5s)
+[1.595s] -- Generating done (0.0s)
+[1.599s] -- Build files have been written to: /home/addinedu/pinky/build/pinky_description
+[1.608s] Invoked command in '/home/addinedu/pinky/build/pinky_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/addinedu/pinky/install/pinky_tmproject:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/addinedu/pinky/src/pinky_for_edu/pinky_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/addinedu/pinky/install/pinky_description
+[1.612s] Invoking command in '/home/addinedu/pinky/build/pinky_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/addinedu/pinky/install/pinky_tmproject:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/addinedu/pinky/build/pinky_description -- -j12 -l12
+[1.682s] Invoked command in '/home/addinedu/pinky/build/pinky_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/addinedu/pinky/install/pinky_tmproject:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/addinedu/pinky/build/pinky_description -- -j12 -l12
+[1.697s] Invoking command in '/home/addinedu/pinky/build/pinky_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/addinedu/pinky/install/pinky_tmproject:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/addinedu/pinky/build/pinky_description
+[1.714s] -- Install configuration: ""
+[1.715s] -- Execute custom install script
+[1.716s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/rviz/urdf_config.rviz
+[1.736s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/urdf/camera.xacro
+[1.753s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/urdf/gazebo_control.xacro
+[1.768s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/urdf/imu.xacro
+[1.786s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/urdf/inertial_macros.xacro
+[1.798s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/urdf/lidar.xacro
+[1.817s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/urdf/robot.urdf.xacro
+[1.832s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/urdf/robot_core.xacro
+[1.846s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/urdf/robot_core_marker.xacro
+[1.862s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/urdf/robot_gazebo.xacro
+[1.876s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/urdf/view.urdf
+[1.887s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/launch/display.launch.xml
+[1.900s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/launch/rviz2_test.launch.xml
+[1.916s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/launch/upload.launch.xml
+[1.934s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/0.stl
+[1.950s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/1.stl
+[1.962s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/2.stl
+[1.972s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/3.stl
+[1.988s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/4.stl
+[2.003s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/5.stl
+[2.019s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/base_link.stl
+[2.032s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/base_link_old.stl
+[2.047s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/camera.stl
+[2.061s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/caster.stl
+[2.076s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/lidar.stl
+[2.092s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/ul_sensor.stl
+[2.108s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/collision/wheel.stl
+[2.126s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/0.dae
+[2.146s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/1.dae
+[2.163s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/2.dae
+[2.183s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/3.dae
+[2.202s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/4.dae
+[2.224s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/5.dae
+[2.241s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-0.jpg
+[2.257s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-1.jpg
+[2.270s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-2.jpg
+[2.290s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-3.jpg
+[2.304s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-4.jpg
+[2.322s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/5x5_1000-5.jpg
+[2.336s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/base_link.dae
+[2.356s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/base_link_old.dae
+[2.369s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/camera.dae
+[2.382s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/caster.dae
+[2.399s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/lidar.dae
+[2.414s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/ul_sensor.dae
+[2.433s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/meshes/visual/wheel.dae
+[2.444s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/ament_index/resource_index/package_run_dependencies/pinky_description
+[2.462s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/ament_index/resource_index/parent_prefix_path/pinky_description
+[2.475s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/environment/ament_prefix_path.sh
+[2.490s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/environment/ament_prefix_path.dsv
+[2.506s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/environment/path.sh
+[2.521s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/environment/path.dsv
+[2.543s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/local_setup.bash
+[2.557s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/local_setup.sh
+[2.578s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/local_setup.zsh
+[2.591s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/local_setup.dsv
+[2.608s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/package.dsv
+[2.622s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/ament_index/resource_index/packages/pinky_description
+[2.637s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/cmake/pinky_descriptionConfig.cmake
+[2.654s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/cmake/pinky_descriptionConfig-version.cmake
+[2.671s] -- Symlinking: /home/addinedu/pinky/install/pinky_description/share/pinky_description/package.xml
+[2.692s] Invoked command in '/home/addinedu/pinky/build/pinky_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/addinedu/pinky/install/pinky_tmproject:/home/addinedu/dev_ws/ros/install/my_tf:/home/addinedu/dev_ws/ros/install/my_first_package:/home/addinedu/dev_ws/ros/install/controller_tutorials:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/addinedu/pinky/build/pinky_description

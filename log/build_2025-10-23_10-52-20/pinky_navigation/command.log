@@ -1,0 +1,1 @@
+Invoking command in '/home/addinedu/pinky/build/pinky_navigation': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/addinedu/pinky/src/pinky_for_edu/pinky_navigation -DCMAKE_INSTALL_PREFIX=/home/addinedu/pinky/install/pinky_navigation

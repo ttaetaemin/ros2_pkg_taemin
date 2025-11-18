@@ -1,0 +1,20 @@
+[0.017s] Invoking command in '/home/addinedu/pinky/build/pinky_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/addinedu/pinky/src/pinky_for_edu/pinky_description -DCMAKE_INSTALL_PREFIX=/home/addinedu/pinky/install/pinky_description
+[0.359s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[3.132s] Traceback (most recent call last):
+[3.132s]   File "/opt/ros/jazzy/share/ament_cmake_core/cmake/package_templates/templates_2_cmake.py", line 21, in <module>
+[3.132s]     from ament_package.templates import get_environment_hook_template_path
+[3.132s] ModuleNotFoundError: No module named 'ament_package'
+[3.162s] -- Configuring incomplete, errors occurred!
+[3.162s] [31mCMake Error at /opt/ros/jazzy/share/ament_cmake_core/cmake/ament_cmake_package_templates-extras.cmake:41 (message):
+[3.162s]   execute_process(/usr/bin/python3
+[3.162s]   /opt/ros/jazzy/share/ament_cmake_core/cmake/package_templates/templates_2_cmake.py
+[3.162s]   /home/addinedu/pinky/build/pinky_description/ament_cmake_package_templates/templates.cmake)
+[3.162s]   returned error code 1
+[3.162s] Call Stack (most recent call first):
+[3.162s]   /opt/ros/jazzy/share/ament_cmake_core/cmake/ament_cmake_coreConfig.cmake:41 (include)
+[3.162s]   /opt/ros/jazzy/share/ament_cmake/cmake/ament_cmake_export_dependencies-extras.cmake:15 (find_package)
+[3.162s]   /opt/ros/jazzy/share/ament_cmake/cmake/ament_cmakeConfig.cmake:41 (include)
+[3.162s]   CMakeLists.txt:9 (find_package)
+[3.162s] 
+[3.162s] [0m
+[3.164s] Invoked command in '/home/addinedu/pinky/build/pinky_description' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/addinedu/pinky/src/pinky_for_edu/pinky_description -DCMAKE_INSTALL_PREFIX=/home/addinedu/pinky/install/pinky_description
